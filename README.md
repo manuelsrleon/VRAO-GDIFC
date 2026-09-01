@@ -1,4 +1,6 @@
-# GDIFC
+# VRAO-GDIFC
+
+VRAO needs specific changes made to maintain material references and some improvements have to be made in regards to IFC importing. This fork is our copy to work on it and, if applicable, propose the upstream changes.
 
 ![GDIFC](images/GDIFC.png)
 
